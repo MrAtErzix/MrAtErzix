@@ -1,8 +1,6 @@
 # Привет! Я xLifeForPris
 
-<p align="left">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
+<img src="https://demolab.com" alt="Typing SVG" />
 
 ---
 
@@ -19,22 +17,13 @@
 
 ### Технологии и Инструменты
 
-<p align="left">
-  <img src="https://shields.io" alt="C#" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="Fedora" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="VS Code" />
-</p>
+<img src="https://shields.io" alt="C#" /> <img src="https://shields.io" alt="Java" /> <img src="https://shields.io" alt="Fedora" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="VS Code" />
 
 ---
 
 ### Моя активность на GitHub
 
-<p align="left">
-  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
-  <img src="https://vercel.app" width="48%" alt="Top Languages" />
-</p>
+<img src="https://vercel.app" width="49%" alt="GitHub Stats" /> <img src="https://vercel.app" width="49%" alt="Top Languages" />
 
 ---
 
@@ -45,4 +34,3 @@
 <p align="center">
   <i>"Код работает, пока работает вайб."</i>
 </p>
-#
