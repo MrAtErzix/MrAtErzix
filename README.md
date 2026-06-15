@@ -27,8 +27,6 @@
 
 ![Top Languages](https://vercel.app)
 
-![GitHub Streak](https://herokuapp.com)
-
 ---
 
 ### Контакты
