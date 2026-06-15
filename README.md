@@ -1,9 +1,5 @@
 # Привет! Я xLifeForPris
 
-<p align="left">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
 ---
 
 ### Обо мне
@@ -19,22 +15,14 @@
 
 ### Технологии и Инструменты
 
-<p align="left">
-  <img src="https://shields.io" alt="C#" /> &nbsp;
-  <img src="https://shields.io" alt="Java" /> &nbsp;
-  <img src="https://shields.io" alt="Fedora" /> &nbsp;
-  <img src="https://shields.io" alt="Git" /> &nbsp;
-  <img src="https://shields.io" alt="VS Code" />
-</p>
+`🟣 C#` &nbsp; `🟣 Java` &nbsp; `🟣 Fedora` &nbsp; `🟣 Git` &nbsp; `🟣 VS Code`
 
 ---
 
 ### Моя активность на GitHub
 
-<p align="left">
-  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
-  <img src="https://vercel.app" width="48%" alt="Top Languages" />
-</p>
+* [🟣 Статистика профиля](https://github.com)
+* [🟣 Мои репозитории](https://github.com?tab=repositories)
 
 ---
 
