@@ -1,8 +1,6 @@
 # Привет! Я xLifeForPris
 
-<p align="left">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
+![Typing SVG](https://demolab.com)
 
 ---
 
@@ -19,88 +17,23 @@
 
 ### Технологии и Инструменты
 
-<p align="left">
-  <img src="https://shields.io" alt="C#" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="Fedora" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="VS Code" />
-</p>
+![C#](https://shields.io) ![Java](https://shields.io) ![Fedora](https://shields.io) ![Git](https://shields.io) ![VS Code](https://shields.io)
 
 ---
 
 ### Моя активность на GitHub
 
-<p align="center">
-  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
-  <img src="https://vercel.app" width="48%" alt="Top Languages" />
-</p>
+![GitHub Stats](https://vercel.app)
 
-<p align="center">
-  <img src="https://herokuapp.com" width="97%" alt="GitHub Streak" />
-</p>
+![Top Languages](https://vercel.app)
+
+![GitHub Streak](https://herokuapp.com)
 
 ---
 
 ### Контакты
 
 * **GitHub:** Ты уже здесь. Заглядывай в мои репозитории, они постепенно наполняются кодом и рабочим процессом.
-
-<p align="center">
-  <i>"Код работает, пока работает вайб."</i>
-</p>
-# Привет! Я xLifeForPris
-
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
----
-
-### Обо мне
-
-Рад видеть тебя в моём профиле. На данный момент я нахожусь на стадии вайбкодинга — пишу проекты по настроению, много экспериментирую и ловлю правильный поток. Параллельно я активно закаляю базу и двигаюсь в сторону бэкенд и десктоп разработки.
-
-- Текущий фокус: Глубокое погружение в экосистемы C# и Java.
-- Окружение: Сижу на Fedora Linux, люблю кастомизацию и работу в терминале.
-- Интересы: Интересуюсь моддингом, лаунчерами, игровой логикой и автоматизацией.
-- Цель: Перерасти из простого кодинга ради интереса в создание оптимизированных и сложных архитектурных решений.
-
----
-
-### Технологии и Инструменты
-
-<p align="left">
-  <!-- C# -->
-  <img src="https://shields.io" alt="C#" />
-  <!-- Java -->
-  <img src="https://shields.io" alt="Java" />
-  <!-- Linux -->
-  <img src="https://shields.io" alt="Fedora" />
-  <!-- Git -->
-  <img src="https://shields.io" alt="Git" />
-  <!-- VS Code -->
-  <img src="https://shields.io" alt="VS Code" />
-</p>
-
----
-
-### Моя активность на GitHub
-
-<p align="center">
-  <img src="https://vercel.app" alt="xLifeForPris GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="xLifeForPris Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="xLifeForPris Streak Stats" width="97%" />
-</p>
-
----
-
-### Контакты
-
-- GitHub: Ты уже здесь. Заглядывай в мои репозитории, они постепенно наполняются кодом и рабочим процессом.
 
 <p align="center">
   <i>"Код работает, пока работает вайб."</i>
