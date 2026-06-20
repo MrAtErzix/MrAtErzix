@@ -55,7 +55,7 @@ Fedora Linux user, terminal native. Started with vibe coding — moving toward a
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrAtErzix&theme=radical&no-frame=true&no-bg=true&column=4" width="600">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAtErzix&theme=dark&hide_border=true&background=00000000&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="400">
 </p>
 
 ---
